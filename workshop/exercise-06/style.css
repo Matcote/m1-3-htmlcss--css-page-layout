@@ -33,3 +33,8 @@ li:hover{
 .nav:hover ul{
   display: block;
 }
+.menu{
+  position: absolute;
+  top: 58px;
+  left: 0;
+}
